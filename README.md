@@ -1,2 +1,2 @@
 # Appventure
-Learning To Use Django.
+Learning To Use Django, HTML and CSS.
